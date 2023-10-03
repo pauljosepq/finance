@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Empoderamiento Financiero',
+    Svg: require('@site/static/img/two.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        En The Money Maker, creemos que el conocimiento financiero es la clave para alcanzar tus metas y sueños. Nuestra misión es empoderarte con información confiable y consejos prácticos que te ayudarán a tomar decisiones financieras inteligentes y a construir un futuro financiero sólido.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Construyendo Riqueza Juntos',
+    Svg: require('@site/static/img/one.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        En The Money Maker, no solo hablamos de finanzas, vivimos las finanzas. Nuestra comunidad está dedicada a aprender, crecer y prosperar juntos. Te ofrecemos recursos valiosos, desde consejos de inversión hasta estrategias de ahorro, para que puedas tomar el control de tu dinero y construir riqueza a tu manera.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Información Confiable, Resultados Tangibles',
+    Svg: require('@site/static/img/three.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        En The Money Maker, nos comprometemos a brindarte información financiera confiable y basada en la evidencia. Nuestro objetivo es que tomes decisiones informadas que te lleven a resultados tangibles. Descubre cómo gestionar de manera efectiva tus finanzas personales y lograr tus objetivos financieros con nosotros.
       </>
     ),
   },
